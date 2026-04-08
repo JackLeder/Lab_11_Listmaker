@@ -35,7 +35,7 @@ public class listmenu {
                     list.add(insertIndex, insertString);
                     break;
                 case "P":
-                    System.out.println("List is: " + list);
+                    //System.out.println("List is: " + list);
                     break;
 
                 case "Q":
